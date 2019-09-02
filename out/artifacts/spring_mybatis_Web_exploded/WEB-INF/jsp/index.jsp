@@ -17,8 +17,6 @@ jjjjjj
 ${username}
 <c:forEach items="${student}" var="s">
     <c:out value="${s.sname}"/>
-
-
 </c:forEach>
 </body>
 </html>
